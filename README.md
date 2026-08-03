@@ -27,7 +27,7 @@ https://<your-github-username>.github.io/<repo-name>/
 ## Project structure
 
 ```
-nlp-repo/
+nlp-knowledge-repository/
 ├── index.html          # entire site (single page, tabbed sections)
 ├── css/
 │   └── style.css       # design system / styling
