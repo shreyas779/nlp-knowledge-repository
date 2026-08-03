@@ -21,7 +21,7 @@ It also includes the required Comparative Analysis tables, Workflow Diagrams, Re
 Once deployed (steps below), the site is available at:
 
 ```
-https://<your-github-username>.github.io/<repo-name>/
+https://<your-github-username>.github.io/<repo-name>/](https://shreyas779.github.io/nlp-knowledge-repository/
 ```
 
 ## Project structure
