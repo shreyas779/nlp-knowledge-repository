@@ -1,8 +1,8 @@
 # NLP Knowledge Artifact Repository — Week 1
 
-**Course:** Natural Language Processing (CMCOR1PE301.1) · TY B.Tech, Semester V
-**Institution:** Shah & Anchor Kutchhi Engineering College
-**Team:** Your Name & Riya
+**Course:** Natural Language Processing (CMCOR1PE301.1) · TY B.Tech, Semester V<br>
+**Institution:** Shah & Anchor Kutchhi Engineering College<br>
+**Team:** Shreyas Kadam & Riya Lad<br>
 **Activity:** Continuous Comprehensive Evaluation – I (Knowledge Artifact Repository)
 
 ## What this is
